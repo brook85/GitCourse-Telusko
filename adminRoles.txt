@@ -1,0 +1,2 @@
+Admin creates 	 and deletes users.
+Also manages roles
