@@ -1,2 +1,3 @@
 Admin creates 	 and deletes users.
 Also manages roles
+Admin can manage database too. 
