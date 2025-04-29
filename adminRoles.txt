@@ -5,6 +5,5 @@ Admin can manage database too.
 additional line text1
 additional line text2
 
-I am an admin and work for government
+I am an admin and work for government.
 I am also a good admin employee!
-
